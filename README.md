@@ -43,3 +43,16 @@ A research-focused repository exploring how Artificial Intelligence, Agentic AI,
 ## Disclaimer
 
 This repository contains research concepts, frameworks, and thought leadership content intended for educational and professional discussion purposes.
+## Architecture Diagrams
+
+### Enterprise Decision Intelligence Architecture
+
+A conceptual framework demonstrating how enterprise data, knowledge systems, analytics, and AI-powered intelligence support strategic, operational, and workforce decision-making.
+
+![Enterprise Decision Intelligence Architecture](docs/Enterprise_Decision_Intelligence_Architecture.png)
+
+### Enterprise Decision Intelligence & Agentic AI Framework
+
+A framework illustrating how specialized AI agents collaborate with enterprise intelligence systems and human decision-makers to enable intelligent business operations.
+
+![Enterprise Decision Intelligence & Agentic AI Framework](docs/Enterprise_Decision_Intelligence_Agentic_AI_Framework.png)
