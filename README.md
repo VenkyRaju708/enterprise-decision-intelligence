@@ -40,9 +40,6 @@ A research-focused repository exploring how Artificial Intelligence, Agentic AI,
 
 🌐 Portfolio: https://venkatramanlabs.com
 
-## Disclaimer
-
-This repository contains research concepts, frameworks, and thought leadership content intended for educational and professional discussion purposes.
 ## Architecture Diagrams
 
 ### Enterprise Decision Intelligence Architecture
@@ -55,4 +52,4 @@ A conceptual framework demonstrating how enterprise data, knowledge systems, ana
 
 A framework illustrating how specialized AI agents collaborate with enterprise intelligence systems and human decision-makers to enable intelligent business operations.
 
-![Enterprise Decision Intelligence & Agentic AI Framework](docs/Enterprise_Decision_Intelligence_Agentic_AI_Framework.png)
+![Enterprise Decision Intelligence & Agentic AI Framework](docs/Enterprise_Decision_Intelligence_and_Agentic_AI_Framework.png)
